@@ -48,6 +48,9 @@ h1{
     font-size: x-large;
     padding: 50px;
 }
+.two ul>li>a:hover{
+    font-weight: bolder;
+}
 .icon{
     margin: 70px;
     display: flex;
